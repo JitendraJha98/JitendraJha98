@@ -21,17 +21,6 @@
 
 ---
 
-### 🛠️ Tech & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-6E40C9?style=flat-square&logo=openai&logoColor=white" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -40,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JitendraJha98&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=JitendraJha98&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" alt="GitHub Streak"/>
 </p>
 
 ---
