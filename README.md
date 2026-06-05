@@ -1,8 +1,11 @@
 <h1 align="center">Hi, I'm Jitendra Jha 👋</h1>
 
 <p align="center">
-  <b>AI &amp; Machine Learning Developer</b><br>
-  Building AI agents, multi-model systems, and tooling for safe, governed AI.
+  <strong>AI Engineer • Multi-Agent Systems • LLM Infrastructure</strong>
+</p>
+
+<p align="center">
+  Building scalable agentic systems, RAG platforms, and LLM infrastructure for real-world production workloads.
 </p>
 
 <p align="center">
@@ -30,6 +33,12 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=JitendraJha98&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" alt="GitHub Streak"/>
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JitendraJha98&bg_color=ffffff&color=0A66C2&line=0A66C2&point=0A66C2&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
